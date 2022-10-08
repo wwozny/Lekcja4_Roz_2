@@ -1,0 +1,32 @@
+html{
+    background-color: beige;
+    font-weight: bold;
+}
+.lista{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* justify-content: space-between; */
+}
+
+.nawigacja{
+    background-color: #2b2b2b;
+    color: white;
+    line-height: 70px;
+}
+
+.jeden{
+    margin: 0 15px;
+}
+
+.dwa{
+    margin: 0 15px;
+}
+
+.trzy{
+    margin: 0 15px;
+}
+
+a{
+    color: white;
+}
